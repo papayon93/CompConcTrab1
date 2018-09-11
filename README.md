@@ -2,6 +2,7 @@
 Trabalho 1 de coomputação concorrente
 
 Para compilar: gcc -o barbeiro barbeiro.c -lpthread
+
 Para compilar: g++ -o fumantes fumantes.cpp -lpthread
 
 Problema dos Fumantes solucionado com a seguinte recerencia
